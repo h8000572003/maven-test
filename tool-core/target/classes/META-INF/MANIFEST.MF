@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Built-By: Andy
 Build-Jdk: 1.8.0_25
-Main-Class: org.tool.core.App
 Created-By: Maven Integration for Eclipse
+Main-Class: com.andy.core.App1
 

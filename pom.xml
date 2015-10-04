@@ -5,36 +5,96 @@
 	<artifactId>tool-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>TOOL</name>
+	<name>tool</name>
 	<url>http://maven.apache.org</url>
 	<modules>
 		<module>tool-core</module>
 		<module>tool-api</module>
-		<module>lib</module>
-		<module>tool-web</module>
+
+
 	</modules>
+
+	<properties>
+		<java.version>1.6</java.version>
+		<my.build.directory>target</my.build.directory>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+		<el.version>2.2.1-b04</el.version>
+		<tomcat.el.version>7.0.12</tomcat.el.version>
+		<spring.version>3.2.6.RELEASE</spring.version>
+		<spring.security.version>3.1.4.RELEASE</spring.security.version>
+		<spring.integration.version>2.2.6.RELEASE</spring.integration.version>
+		<spring.batch.version>3.0.3.RELEASE</spring.batch.version>
+		<quartz.version>2.0.2</quartz.version>
+		<hibernate.version>3.6.10.Final</hibernate.version>
+		<aspectj.version>1.6.10</aspectj.version>
+		<slf4j.version>1.7.6</slf4j.version>
+		<logback.version>1.1.2</logback.version>
+
+		<maven.build.timestamp.format>yyyyMMdd-HHmm
+		</maven.build.timestamp.format>
+		<build.timestamp>${maven.build.timestamp}</build.timestamp>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<jodatime.version>2.5</jodatime.version>
+	</properties>
+
+
 
 
 	<build>
+
 		<plugins>
+
+			<!-- Set a compiler level -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.3</version>
+				<version>2.3.2</version>
 				<configuration>
-
-					<source>1.7</source>
-					<target>1.8</target>
+					<source>${jdk.version}</source>
+					<target>${jdk.version}</target>
 				</configuration>
 			</plugin>
+
 		</plugins>
+
 	</build>
 	<dependencies>
+
+
+
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
+
+
+
+
+
+
+
+
+
+		<dependency>
+			<groupId>joda-time</groupId>
+			<artifactId>joda-time</artifactId>
+			<version>${jodatime.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>con.andy</groupId>
+			<artifactId>lib-api</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
+
+	<!-- One-Jar is in the googlecode repository -->
+	<pluginRepositories>
+		<pluginRepository>
+			<id>onejar-maven-plugin.googlecode.com</id>
+			<url>http://onejar-maven-plugin.googlecode.com/svn/mavenrepo</url>
+		</pluginRepository>
+	</pluginRepositories>
 </project>

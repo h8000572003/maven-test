@@ -1,0 +1,137 @@
+ok
+ok
+2015/10/03 01:37:48 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:37:48 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+2015/10/03 01:38:48 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+2015/10/03 01:40:28 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:40:28 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+2015/10/03 01:41:38 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:41:38 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+2015/10/03 01:42:19 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:42:19 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:42:50 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:42:50 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:42:50 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:46:17 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:46:17 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:46:17 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:48:02 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:48:02 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:48:02 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:48:34 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:48:34 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:48:34 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:49:34 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:49:34 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:49:34 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:49:41 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:49:41 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:49:41 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:49:44 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:49:44 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:49:44 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:49:45 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:49:45 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:49:45 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:49:46 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:49:46 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:49:46 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:49:46 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:49:46 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:49:46 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:49:46 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:49:46 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:49:46 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:49:47 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:49:47 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:49:47 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:49:49 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:49:49 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:49:49 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:49:49 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:49:49 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:49:49 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:49:49 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:49:49 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:49:49 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:13)
+2015/10/03 01:51:12 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:51:12 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:51:12 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:18)
+2015/10/03 01:51:54 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:51:54 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:51:54 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:18)
+2015/10/03 01:52:05 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:52:05 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:52:05 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:18)
+2015/10/03 01:53:14 INFO  [main] [com.lib.java.CommonUtilImpl:10] ok
+2015/10/03 01:53:14 DEBUG [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:53:14 ERROR [main] [com.lib.java.CommonUtilImpl:12] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:12)
+	at org.tool.api.App.main(App.java:18)
+2015/10/03 01:53:14 ERROR [main] [org.tool.api.App:19] error!
+2015/10/03 01:57:25 INFO  [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:57:25 DEBUG [main] [com.lib.java.CommonUtilImpl:12] ok
+2015/10/03 01:57:25 ERROR [main] [com.lib.java.CommonUtilImpl:13] ok
+java.lang.NullPointerException
+	at com.lib.java.CommonUtilImpl.say(CommonUtilImpl.java:13)
+	at org.tool.api.App.main(App.java:18)
+2015/10/03 01:57:31 INFO  [main] [com.lib.java.CommonUtilImpl:11] ok
+2015/10/03 01:57:31 DEBUG [main] [com.lib.java.CommonUtilImpl:12] ok
